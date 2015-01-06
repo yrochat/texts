@@ -4,7 +4,9 @@ Parmi les succès et moments-clés de l’année 2014 pour le jeu vidéo, deux o
 
 L’enjeu et la portée de ces deux jeux codés à chaque fois par une seule personne et en quelques jours est énorme, questionnant *game design*, *business model*, *open source*, jeux sur téléphones portables, célébrité dans le jeu vidéo, *trolling* en ligne, rôle des médias, etc.
 
-Dans ce billet, l’un après l’autre, nous présentons brièvement les deux jeux, de leur mécanisme à un historique de leur succès. Puis, nous discutons des implications, des nouvelles perspectives qu’ils ont amené pour le domaine en général.
+Dans ce billet, nous présentons brièvement les deux jeux, l’un après l’autre, de leur mécanisme à un historique de leur succès. Puis, nous discutons des implications, des nouvelles perspectives qu’ils ont amené pour le domaine en général.
+
+Une première révolution mobile depuis le snake est apparue avec les smartphone, l’appstore, le playstore, etc. S’agirait-il ici d’une nouvelle révolution ? Est-ce qu’une de ces deux voies pourra à nouveau se produire ? Est-ce que ça va devenir plus systématique ou est-ce fini pour toujours ? (Deux fois en un mois puis plus rien.)
 
 ## Flappy Bird ##
 
@@ -88,8 +90,9 @@ Minecraft sold to Microsoft
 
 ## Conclusion ##
 
-comme flappy bird, ça ne sert à rien de prendre les gens pour des cons (dungeon keeper) ou pour des esthètes (threes), à la fin ils choisissent et des grosses productions peuvent capoter. c'est un peu comme le sudoku.
+Ce ne sont pas les règles qui ont changé, mais plutôt qu’il y a de nouvelles règles.
 
+comme flappy bird, ça ne sert à rien de prendre les gens pour des cons (dungeon keeper) ou pour des esthètes (threes), à la fin ils choisissent et des grosses productions peuvent capoter. c'est un peu comme le sudoku.
 
 Finalement, Gabrielle en a fait un jeu mobile. Et il est nul. Retour à la normale de l’enfant prodige.
 
