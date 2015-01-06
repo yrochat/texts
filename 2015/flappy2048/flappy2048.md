@@ -1,19 +1,39 @@
 #"Holy shit I just lost like 45 minutes to this.”#
 
-Parmi les succès et moment-clés de l’année 2014 pour le jeu vidéo, deux oeuvres pourtant très discrètes ont eu un énorme retentissement, dans les deux cas inattendu. Ces deux jeux, 2048 et Flappy Birds, ont dévoilé de nouveaux moyens d’obtenir un jeu à succès. Ils ont montré que le jeu vidéo suivait aussi de nouvelles directions. L’enjeu est énorme, et la portée de ces deux jeux codés à chaque fois par une seule personne et en quelques jours (heures ?) est monstrueuse, questionnant *game design*, *business model*, *open source*, les jeux sur mobile, la célébrité dans le jeu vidéo, le trolling, le rôle des médias, etc.
+Parmi les succès et moments-clés de l’année 2014 pour le jeu vidéo, deux oeuvres pourtant minimalistes ont eu des succès retentissants et inattendus dans les deux cas. Ces deux jeux, [*Flappy Bird*](http://fr.wikipedia.org/wiki/Flappy_Bird “wikipedia”) et [*2048*](http://gabrielecirulli.github.io/2048/ “github”), dévoilent de nouveaux moyens d’obtenir un produit phare dans ce milieu, mais surtout permettent, vu comme études de cas, de mettre en avant quelques règles nouvelles dans le domaine en perpétuelle évolution du jeu vidéo.
 
-Dans cet billet, après avoir brièvement présenté les deux jeux, nous proposons un historique les remettant dans leurs contextes d’époque, remontant et analysant les raisons de leurs succès. Puis nous discutons des implications, des nouvelles perspectives qu’ils ont amené.
+L’enjeu et la portée de ces deux jeux codés à chaque fois par une seule personne et en quelques jours est énorme, questionnant *game design*, *business model*, *open source*, jeux sur téléphones portables, célébrité dans le jeu vidéo, *trolling* en ligne, rôle des médias, etc.
 
-##Les jeux##
+Dans ce billet, l’un après l’autre, nous présentons brièvement les deux jeux, de leur mécanisme à un historique de leur succès. Puis, nous discutons des implications, des nouvelles perspectives qu’ils ont amené pour le domaine en général.
 
+##Flappy Bird##
 
+###Mécanique###
 
+###Historique###
 
+##2048##
 
+###Mécanique###
+
+###Historique###
+
+##Qu’ont-ils en commun ?##
+
+Plagiés : [“I’m convinced that there's a whole new ecosystem of hackers that will exist solely to clone simple games which rise in popularity."](https://news.ycombinator.com/item?id=7390243)
+
+##Qu’est-ce qui les différencie ?##
 
 ["Fear not. I don't plan on pulling a flappy bird. Although I now kind-of understand what Dong Nguyen might have felt like, even if at a much smaller scale.”](https://news.ycombinator.com/item?id=7386459 “Hacker News")
 
-["I'm convinced that there's a whole new ecosystem of hackers that will exist solely to clone simple games which rise in popularity."](https://news.ycombinator.com/item?id=7390243)
+##Analyse##
+
+##Perspectives##
+
+##Conclusion##
+
+
+
 
 
 
