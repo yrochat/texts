@@ -11,9 +11,9 @@ Dans cet billet, après avoir brièvement présenté les deux jeux, nous proposo
 
 
 
-["Fear not. I don't plan on pulling a flappy bird. Although I now kind-of understand what Dong Nguyen might have felt like, even if at a much smaller scale.”](http://en.support.wordpress.com/markdown-quick-reference/ “Hacker News")
+["Fear not. I don't plan on pulling a flappy bird. Although I now kind-of understand what Dong Nguyen might have felt like, even if at a much smaller scale.”](https://news.ycombinator.com/item?id=7386459 “Hacker News")
 
-
+["I'm convinced that there's a whole new ecosystem of hackers that will exist solely to clone simple games which rise in popularity."](https://news.ycombinator.com/item?id=7390243)
 
 
 
