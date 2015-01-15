@@ -10,11 +10,29 @@ Une première révolution mobile depuis le snake est apparue avec les smartphone
 
 ## Flappy Bird ##
 
+Flappy Bird a été réalisé par un jeune programmeur vietnamien en l’espace de quelques jours (citation) et publié en 2012. Le jeu a stagné dans les tréfonds de l’appstore, avant de sortir soudainement de l’ombre, à la surprise de tous, de surfer sur le succès et d’être soudainement retiré par son auteur.
+
 ### Mécanique ###
+
+L’action consiste à faire trésauter par une pression sur l’écran un poisson ailé se déplaçant de gauche à droite et devant passer dans des interstices, toutes de même taille mais situées à des hauteurs diverses. La difficulté est très élevée dès le départ, car le mouvement du poisson est ample et pas adapté à l’obstacle qu’il doit franchir. Globalement, le génie du jeu, la trouvaille de son game design, est son mauvais game design. Je
+
+Le jeu fonctionnait en *free-to-play*, avec de la publicité et pas d’achats intégrés. Au 
 
 ### Historique ###
 
-Swing Copters
+Certains avancent un bouche à oreille spécialement lent (faire une recherche sur Twitter), d’autres des théories du complot (achat de *reviews* positives), mais dans tous les cas le jeu a été téléchargé des millions de fois, rien que pour sa version officielle. 
+
+Célébrité
+
+Stress -> Retrait du jeu
+
+Clones
+
+Article dans Rolling Stone
+
+Annonce de Swing Copters
+
+Succès monumental de Swing Copters, tout aussi casse-couilles et mal foutu
 
 ## 2048 ##
 
